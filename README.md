@@ -1,4 +1,3 @@
-#《我们赖以生存的隐喻》(metaphors we live by)的精修epub版本
 《我们赖以生存的隐喻》(metaphors we live by)是乔治·莱考夫、马克·约翰逊（George Lakoff and Mark Johnson）于1980年出版的语言学专著。中文版2015年问世。
 网上流传有该书的epub版本，但是制作质量很差，而且内容不全，不堪一用。因此网上也有人试图重新整理，见https://qb-ebook.github.io/wmlyscdyy/version_1/01.html
 但该版本已经长久未能更新，因此我不揣冒昧，完善了该书的电子版。以下是情况说明：
